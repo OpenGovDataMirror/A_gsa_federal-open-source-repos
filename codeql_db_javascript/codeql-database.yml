@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_federal-open-source-repos"
+baselineLinesOfCode: 83
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "f713165ce9cef58298cc0f2f7980666b4b9a516a"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T22:53:15.978857995Z"
